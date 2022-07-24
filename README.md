@@ -1,6 +1,17 @@
 
 <h2>Hey There! Im Miguel Cerna </h2>
 </br>
+
+### ABOUT
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Software Developer with years of experience bringing expertise in design, testing, and maintenance of software systems. Equipped with a diverse skill set and proficient in various languages and systems.
+
+
+### CONTACT
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <a href="https://www.linkedin.com/in/miguel-cerna-0b133117b/"><img width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></img> :  https://www.linkedin.com/in/miguel-cerna-0b133117b/</a>
 </br>
 <a href="https://cerna234.github.io/WebPortfoliov2/"><img width="20px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png"></img> :  https://cerna234.github.io/WebPortfoliov2/</a>
@@ -13,10 +24,12 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
+### Stack
 
 
 -  **Languages :** JavaScript, html, css
 -  **Frameworks :** React.js, Express.js
+-  **Databases :** Mysql, MongoDb, Sequelize Orm
+-  **Code Editor :** Visual Studio Code
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
